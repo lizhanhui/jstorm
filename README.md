@@ -47,3 +47,4 @@ English Document and tutorials can be found on the [English JStorm Documentation
 # Getting help
 Google Groups: [jstorm-user](https://groups.google.com/forum/#!forum/jstorm-user)<br />
 QQ群:228374502
+It's a test.
